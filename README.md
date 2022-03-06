@@ -9,7 +9,7 @@ I'm a Systems engineer student who loves working with React and NodeJS at web de
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
 ```javascript
-const vedant = {
+const sebasg25 = {
     pronouns: "He" | "Him",
     code: ["JavaScript", "HTML", "CSS", "MongoDB", "PostgreSQL"],
     askMeAbout: ["WebDev", "Tech", "Gaming"],
