@@ -6,6 +6,27 @@ I'm a Systems engineer student who loves working with React and NodeJS at web de
 <a href="mailto:sebastian.guzman200225@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 - ⚡ Fun fact: I love playing videogames 🎮
 
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+
+```javascript
+const vedant = {
+    pronouns: "He" | "Him",
+    code: ["JavaScript", "HTML", "CSS", "MongoDB", "PostgreSQL"],
+    askMeAbout: ["WebDev", "Tech", "Gaming"],
+    technologies: {
+        frontEnd: {
+            frameworks: ["React, Vue"]
+        },
+        backEnd: {
+            js: ["Node"],
+        },
+        databases: ["MongoDB", "MySql", "PostgreSQL"],
+        misc: ["React Router", "Express", "Firebase", "Socket.IO"]
+    },
+    currentFocus: ["JavaScript", "React"]
+};
+```
+
 <!--
 **SebasG25/SebasG25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
