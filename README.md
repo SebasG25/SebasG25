@@ -6,7 +6,7 @@ I'm a Systems engineer student who loves working with React and NodeJS at web de
 <a href="mailto:sebastian.guzman200225@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 - ⚡ Fun fact: I love playing videogames 🎮
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+### <img src="https://media.giphy.com/media/9fkk6YjN9c3Kt018Bp/giphy.gif" width="50"> A little more about me...  
 
 ```javascript
 const sebasg25 = {
