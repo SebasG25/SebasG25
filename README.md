@@ -1,4 +1,6 @@
-### Hi there, I'm Sebastian 👋
+<p align="center" width="300">
+   <h3 align="center">Hi there 👋! I'm Sebastian 👨🏻‍💻</h3>
+</p>
 
 I'm a Systems engineer student who loves working with React and NodeJS in web development. 😃
 
