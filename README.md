@@ -2,7 +2,9 @@
    <h3 align="center">Hi there 👋! I'm Sebastian 👨🏻‍💻</h3>
 </p>
 
-I'm a Systems engineer student who loves working with React and NodeJS in web development. 😃
+<p align="center" width="300">
+   I'm a <strong>Systems engineer student</strong> who loves working with <strong>React</strong> and <strong>NodeJS</strong> in web development. 😃
+</p>
 
 - 📫 How to reach me: [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sebastianguzmanagudelo) 
 <a href="mailto:sebastian.guzman200225@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
