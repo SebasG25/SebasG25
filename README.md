@@ -15,19 +15,20 @@
 ```javascript
 const sebasg25 = {
     pronouns: "He" | "Him",
-    code: ["JavaScript", "HTML", "CSS", "MongoDB", "PostgreSQL"],
+    code: ["JavaScript", "TypeScript", "TailwindCSS"],
     askMeAbout: ["WebDev", "Tech", "Gaming"],
     technologies: {
         frontEnd: {
-            frameworks: ["React, Vue"]
+            frameworks: ["NextJS"],
+            libraries: ["ReactJS"],
         },
         backEnd: {
             js: ["Node"],
         },
-        databases: ["MongoDB", "MySql", "PostgreSQL"],
-        misc: ["React Router", "Express", "Firebase", "Socket.IO"]
+        databases: ["MongoDB", "MySQL", "PostgreSQL", "Firebase"],
+        misc: ["React Router", "Express", "Socket.IO, GraphQL"]
     },
-    currentFocus: ["JavaScript", "React"]
+    currentFocus: ["AWS", "React"]
 };
 ```
 
