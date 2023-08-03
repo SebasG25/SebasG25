@@ -6,8 +6,8 @@
    I'm a <strong>Systems engineer student</strong> who loves working with <strong>React</strong> and <strong>NodeJS</strong> in web development. 😃
 </p>
 
-- 📫 How to reach me: [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sebastianguzmanagudelo) 
-<a href="mailto:sebastian.guzman200225@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+- 📫 How to reach me:[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sebastianguzmanagudelo) 
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:sebastian.guzman200225@gmail.com)
 - ⚡ Fun fact: I love playing videogames 🎮
 
 ### <img src="https://media.giphy.com/media/9fkk6YjN9c3Kt018Bp/giphy.gif" width="50"> A little more about me...  
