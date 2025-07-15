@@ -1,51 +1,52 @@
-<p align="center" width="300">
-   <h3 align="center">Hi there 👋! I'm Sebastian 👨🏻‍💻</h3>
+<p align="center">
+  <h3 align="center">Hi there 👋! I'm Sebastián Guzmán 👨🏻‍💻</h3>
 </p>
 
-<p align="center" width="300">
-   I'm a <strong>Systems engineer student</strong> who loves working with <strong>React</strong> and <strong>NodeJS</strong> in web development. 😃
+<p align="center">
+  I'm a <strong>Systems Engineer</strong> with experience building scalable web applications using <strong>Next.js</strong>, <strong>Node.js</strong>, <strong>GraphQL</strong>, and <strong>Prisma</strong>. I'm passionate about delivering high-impact cloud solutions using <strong>AWS</strong>.
 </p>
 
-- 📫 How to reach me:
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sebastianguzmanagudelo) 
-[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:sebastian.guzman200225@gmail.com)
-- ⚡ Fun fact: I love playing videogames 🎮
+---
 
-### <img src="https://media.giphy.com/media/9fkk6YjN9c3Kt018Bp/giphy.gif" width="50"> A little more about me...  
+- 🌍 Based in Medellín, Colombia  
+- 🎓 Systems Engineering Degree (Universidad de Medellín)  
+- 📧 sebastian.guzman200225@gmail.com  
+- 📫 Connect with me:  
+  [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sebastianguzmanagudelo)
+
+- 🏆 Certifications:  
+  - AWS Cloud Quest: Cloud Practitioner  
+  - AWS Partner: Accreditation (Technical)  
+  - EFSET English Certificate – C1 Advanced  
+
+- ⚡ Fun fact: I love playing video games 🎮
+
+---
+
+### <img src="https://media.giphy.com/media/9fkk6YjN9c3Kt018Bp/giphy.gif" width="50"> A little more about me in code
 
 ```javascript
 const sebasg25 = {
-    pronouns: "He" | "Him",
-    code: ["JavaScript", "TypeScript", "TailwindCSS"],
-    askMeAbout: ["WebDev", "Tech", "Gaming"],
-    technologies: {
-        frontEnd: {
-            frameworks: ["NextJS"],
-            libraries: ["ReactJS"],
-        },
-        backEnd: {
-            js: ["Node"],
-        },
-        databases: ["MongoDB", "MySQL", "PostgreSQL", "Firebase"],
-        misc: ["React Router", "Express", "Socket.IO, GraphQL"]
+  pronouns: "He" | "Him",
+  code: ["JavaScript", "TypeScript", "SQL", "Python", "TailwindCSS"],
+  askMeAbout: ["Web Development", "AWS Cloud", "Gaming"],
+  technologies: {
+    frontEnd: {
+      frameworks: ["Next.js"],
+      libraries: ["React", "TailwindCSS"]
     },
-    currentFocus: ["AWS", "React"]
+    backEnd: {
+      js: ["Node.js"],
+      tools: ["Prisma", "GraphQL", "Express", "Socket.IO"]
+    },
+    cloud: {
+      provider: "AWS",
+      services: [
+        "CDK", "Lambda", "API Gateway", "SNS", "S3",
+        "Secrets Manager", "CloudWatch", "EC2", "ECS", "RDS"
+      ]
+    },
+    databases: ["PostgreSQL", "MySQL", "MongoDB", "Firebase"]
+  },
+  currentFocus: ["AWS", "React", "Cloud Infrastructure"]
 };
-```
-
-<!--
-**SebasG25/SebasG25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-
-- 😄 Pronouns: ...
-
--->
-
-![SebasG25's GitHub stats](https://github-readme-stats.vercel.app/api?username=sebasg25&show_icons=true&theme=dracula)
